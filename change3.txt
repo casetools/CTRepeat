@@ -1,0 +1,14 @@
+Instructions: 
+•	Write the commands along with description on the answer sheet provided.
+•	Write the code on the answer sheet.
+
+
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a project named "CTSEE". Create a class named 'RevArray'. 
+	In this class, write a program to reverse an array.
+	Write a unit test for the same							(8)
+3.	Generate proper java documentation (in HTML format) 
+	for the above project.  							(3)
+4.	Save your progress in a local repository.						
+5.	Create a new branch named your roll number. eg. 19000.
+6.	Push the newly created branch to the remote repo.				(2)
