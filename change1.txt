@@ -4,7 +4,7 @@ Instructions:
 
 
 1.	Use recently created directory as a workspace for eclipse.
-2.	Create a project named "CTSEE". Add required dependencies. 
+2.	Create a project named "CTSEE". 
 	Write a program to add elements of two arrays, 
 	and write a unit test for the same					(8)
 3.	Generate proper java documentation (in HTML format) 
